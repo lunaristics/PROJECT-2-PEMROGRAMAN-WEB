@@ -1,4 +1,4 @@
-# PROJECT-2-PEMROGRAMAN-WEB
+# PROJECT-2-PEMROGRAMAN-WEB-CYBERNETIC
 Kelompok Cybernetic SI07. Anggota :
 1. Lutfiah Masida Zulfa (0110121151)
 2. Anyelir Salsabila Putriajni (0110121160)
